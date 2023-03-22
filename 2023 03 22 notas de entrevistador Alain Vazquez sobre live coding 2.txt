@@ -1,0 +1,6 @@
+1.- Gerardo, tienes presente el tema de API's y del uso del DOM.
+2.- lees y entiendes lo que se te pide.
+3.- lograste conectar la API haciendo uso del fetch sin mayor problema. 
+4.- Al conectar los datos hubo algunos errores de sintaxis pero lograste ubicar donde se encontraba el problema. 
+5.- Haces uso constante de 'Console.log' para ir verificando que el codigo vaya funcionando correctamente lo cual es una muy buena practica.
+6.- Como recomendacion, practicar
